@@ -1,3 +1,7 @@
+/*write a program which enter the age of a person and if the age is 18 or more, than
+print you can drive otherwise print you can not drive */
+
+
 import java.util.*;
 
 import javax.naming.event.NamingExceptionEvent;
