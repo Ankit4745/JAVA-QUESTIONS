@@ -4,8 +4,7 @@
 
 import java.util.*;
 
-
-public class Telegram {
+public class Ques13 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("ENTER THE NUMBER OF WORDS TO BE SEND BY TELEGRAM:");

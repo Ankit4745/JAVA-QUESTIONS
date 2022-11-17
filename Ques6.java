@@ -6,7 +6,7 @@
 import java.util.*;
 import javax.lang.model.util.ElementScanner14;
 
-public class Income {
+public class Ques6 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the Anuual income : ");

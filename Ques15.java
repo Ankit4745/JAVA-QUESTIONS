@@ -3,8 +3,7 @@
 
 import java.util.*;
 
-
-public class Fail {
+public class Ques15 {
 public static void main(String[] args) {
     float av;
     Scanner sc = new Scanner(System.in);

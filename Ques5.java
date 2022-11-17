@@ -11,7 +11,7 @@
 
 import java.util.*;
 
-public class Division {
+public class Ques5 {
     public static void main(String[] args) {
          int average;
         

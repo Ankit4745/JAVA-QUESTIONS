@@ -8,7 +8,7 @@
 
 import java.util.*;
 import javax.naming.event.NamingExceptionEvent;
-public class Sale {
+public class Ques10 {
     public static void main(String[] args) { 
         float less,more,a;
 

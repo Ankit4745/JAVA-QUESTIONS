@@ -9,7 +9,7 @@
 
 import java.util.*;
 
-public class Cube {
+public class Ques4 {
     public static void main(String[] args) {
         int cube,square;
         Scanner sc = new Scanner(System.in);

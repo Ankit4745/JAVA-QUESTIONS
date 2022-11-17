@@ -3,7 +3,7 @@
 
 import java.util.*;
 
-public class Odd {
+public class Ques8 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("ENTER THE INTEGER:");

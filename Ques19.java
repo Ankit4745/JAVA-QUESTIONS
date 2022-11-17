@@ -4,7 +4,7 @@
 
 import java.util.*;
 
-public class Pass {
+public class Ques19 {
     public static void main(String[] args) {
         int average;
         Scanner sc = new Scanner(System.in);
